@@ -1392,8 +1392,17 @@ background-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-d-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726336324051 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726336399614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+background-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726336402678 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+background-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726336405745 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -1401,16 +1410,7 @@ background-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726336339145 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-background-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726336342208 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-background-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+d-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mplayit (v0.15.23): 1726336345287 tunnel running, 1 tunnels registered
 
 
@@ -1443,6 +1443,24 @@ Error: ClientError(TooManyRequests)
 TUNNELS
 background-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mplayit (v0.15.23): 1726336384692 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+background-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726336399785 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+background-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726336402841 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+background-solid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726336405919 tunnel running, 1 tunnels registered
 
 
 TUNNELS
